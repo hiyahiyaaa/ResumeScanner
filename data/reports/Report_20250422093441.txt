@@ -1,0 +1,33 @@
+RESUME MATCHING REPORT
+----------------------
+
+CANDIDATE DETAILS:
+------------------
+Name: Computer Science    
+Email: Haripriyakaruturi2004@gmail.com
+
+JOB DESCRIPTION:
+----------------
+Job Title: Full Stack Developer
+Company: TechFusion Inc      
+Location: Austin, TX          
+
+SKILLS ANALYSIS
+---------------
+
+REQUIRED SKILLS:
+----------------
+Match Percentage: 42.9% (3/7)
+Matched: JavaScript, MongoDB, Git
+Missing: Node.js, React, Express, RESTful APIs
+
+PREFERRED SKILLS:
+-------------------
+Match Percentage: 0.0% (0/5)
+Missing: TypeScript, AWS, Docker, GraphQL, CI/CD Pipelines
+
+WEIGHTED MATCH SCORE:32.1%
+
+FINAL RECOMMENDATION:
+---------------------
+LOW MATCH - NOT RECOMMENDED         

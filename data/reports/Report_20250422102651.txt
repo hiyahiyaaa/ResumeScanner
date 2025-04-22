@@ -1,0 +1,33 @@
+RESUME MATCHING REPORT
+----------------------
+
+CANDIDATE DETAILS:
+------------------
+Name: Sabhya Kulkarni     
+Email: sabhyakulkarni18@gmail.com
+
+JOB DESCRIPTION:
+----------------
+Job Title: Full Stack Developer
+Company: TechFusion Inc      
+Location: Austin, TX          
+
+SKILLS ANALYSIS
+---------------
+
+REQUIRED SKILLS:
+----------------
+Match Percentage: 57.1% (4/7)
+Matched: JavaScript, Node.js, React, MongoDB
+Missing: Express, RESTful APIs, Git
+
+PREFERRED SKILLS:
+-------------------
+Match Percentage: 0.0% (0/5)
+Missing: TypeScript, AWS, Docker, GraphQL, CI/CD Pipelines
+
+WEIGHTED MATCH SCORE:42.9%
+
+FINAL RECOMMENDATION:
+---------------------
+MODERATE MATCH - REVIEW FURTHER     
